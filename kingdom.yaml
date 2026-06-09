@@ -1,0 +1,8 @@
+name: oriance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The state of a life aligned with its own destined shape, the felt-fit of who a person is now with who they were meant to be.
+dependsOn: [youspeak, me, eikhalgia, kimance]
